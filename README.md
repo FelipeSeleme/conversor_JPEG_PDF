@@ -1,6 +1,6 @@
 # Conversor de Imagens JPEG para PDF
 
-Este projeto foi desenvolvido para automatizar a conversão de múltiplos arquivos JPEG para o formato PDF, de forma simples e segura. A principal motivação foi a necessidade de enviar diversas imagens para uma plataforma, evitando o uso de soluções online que poderiam comprometer a segurança e privacidade dos documentos.
+Este projeto foi desenvolvido para automatizar a conversão de múltiplos arquivos JPEG para o formato PDF, de forma simples e segura. A principal motivação foi a necessidade de enviar diversos documentos para uma plataforma, evitando o uso de soluções online que poderiam comprometer a segurança e privacidade dos documentos.
 
 ## Objetivo
 
